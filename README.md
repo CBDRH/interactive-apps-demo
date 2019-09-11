@@ -6,11 +6,11 @@ This repo contains code to build a demonstration Shiny app that illustrates thre
 
 ## Potential use cases
 
-1. As a platform to provide access to research results in an interactive format, which can be used to supplement more traditional publication formats. 
+1. As a platform to share research results in an interactive format, which can be used to supplement more traditional publication formats. 
 
-2. As a way to promote reproducible research. Here that is illustrated using the [shinymeta](https://rstudio.github.io/shinymeta/) package.
+2. As a way to promote reproducible research. Here this is illustrated using the [shinymeta](https://rstudio.github.io/shinymeta/) package.
 
-3. As a way to deliver interactive data science tutorials. Here that is illustrated using the [learnr])https://rstudio.github.io/learnr/ package.
+3. As a way to deliver interactive data science tutorials. Here this is illustrated using the [learnr](https://rstudio.github.io/learnr/) package.
 
 
 ## Key files
