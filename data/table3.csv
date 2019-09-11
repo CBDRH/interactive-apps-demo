@@ -1,0 +1,19 @@
+﻿cohort,adjustment,or,ll,ul,x
+4y6m-5y0m,Unadjusted,1.133,1.116,1.15,1
+4y6m-5y0m,Fixed Effects (FE),1.133,1.113,1.153,1
+4y6m-5y0m,FE + individual controls,1.143,1.121,1.165,1
+4y6m-5y0m,Random effects (RE),1.136,1.118,1.154,1
+4y6m-5y0m,RE + classroom controls,1.126,1.108,1.144,1
+4y6m-5y0m,RE + all controls,1.132,1.112,1.151,1
+5y1m-5y5m,Unadjusted,1.07,1.051,1.089,2
+5y1m-5y5m,Fixed Effects (FE),1.084,1.062,1.106,2
+5y1m-5y5m,FE + individual controls,1.095,1.071,1.12,2
+5y1m-5y5m,Random effects (RE),1.074,1.054,1.094,2
+5y1m-5y5m,RE + classroom controls,1.074,1.054,1.094,2
+5y1m-5y5m,RE + all controls,1.084,1.063,1.107,2
+5y6m-6y0m,Unadjusted,0.989,0.967,1.011,3
+5y6m-6y0m,Fixed Effects (FE),0.983,0.959,1.008,3
+5y6m-6y0m,FE + individual controls,1.027,0.999,1.056,3
+5y6m-6y0m,Random effects (RE),0.989,0.967,1.011,3
+5y6m-6y0m,RE + classroom controls,0.986,0.964,1.008,3
+5y6m-6y0m,RE + all controls,1.016,0.992,1.041,3

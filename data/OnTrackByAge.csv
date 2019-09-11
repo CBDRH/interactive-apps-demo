@@ -1,0 +1,115 @@
+outcome,age,ot,ll,ul,percpop,agestr
+Physical health and wellbeing,4.5,64.4,62.4,66.3,2.4,4 years 6 months
+Physical health and wellbeing,4.58,63.9,62.1,65.7,2.8,4 years 7 months
+Physical health and wellbeing,4.67,67.7,66.2,69.2,3.9,4 years 8 months
+Physical health and wellbeing,4.75,71.5,70.2,72.7,5,4 years 9 months
+Physical health and wellbeing,4.83,72.5,71.4,73.6,6.4,4 years 10 months
+Physical health and wellbeing,4.92,73.9,72.9,75,6.6,4 years 11 months
+Physical health and wellbeing,5,75.4,74.4,76.3,7.7,5 years
+Physical health and wellbeing,5.08,75.4,74.5,76.4,7.8,5 years 1 month
+Physical health and wellbeing,5.17,77.8,76.9,78.8,7.8,5 years 2 months
+Physical health and wellbeing,5.25,78.9,78,79.7,8.6,5 years 3 months
+Physical health and wellbeing,5.33,79.8,79,80.7,8.6,5 years 4 months
+Physical health and wellbeing,5.42,80.9,80,81.7,8.5,5 years 5 months
+Physical health and wellbeing,5.5,82.2,81.3,83.2,6.5,5 years 6 months
+Physical health and wellbeing,5.58,82.3,81.3,83.3,5.4,5 years 7 months
+Physical health and wellbeing,5.67,82.5,81.4,83.6,4.7,5 years 8 months
+Physical health and wellbeing,5.75,83.4,82.1,84.7,3.3,5 years 9 months
+Physical health and wellbeing,5.83,82.9,81.4,84.5,2.3,5 years 10 months
+Physical health and wellbeing,5.92,79.1,76.8,81.5,1.2,5 years 11 months
+Physical health and wellbeing,6,77,73.9,80.2,0.7,6 years
+Social competence,4.5,65.4,63.5,67.3,2.4,4 years 6 months
+Social competence,4.58,66.3,64.5,68.1,2.8,4 years 7 months
+Social competence,4.67,68.1,66.7,69.6,3.9,4 years 8 months
+Social competence,4.75,72.3,71.1,73.6,5,4 years 9 months
+Social competence,4.83,73.8,72.8,74.9,6.4,4 years 10 months
+Social competence,4.92,74,73,75.1,6.6,4 years 11 months
+Social competence,5,76.6,75.7,77.6,7.7,5 years
+Social competence,5.08,77.4,76.5,78.3,7.8,5 years 1 month
+Social competence,5.17,79.1,78.2,80,7.8,5 years 2 months
+Social competence,5.25,79.6,78.8,80.5,8.6,5 years 3 months
+Social competence,5.33,80.8,80,81.6,8.6,5 years 4 months
+Social competence,5.42,81.1,80.2,81.9,8.5,5 years 5 months
+Social competence,5.5,82.2,81.3,83.1,6.5,5 years 6 months
+Social competence,5.58,82.7,81.7,83.7,5.4,5 years 7 months
+Social competence,5.67,83.1,82,84.1,4.7,5 years 8 months
+Social competence,5.75,83.9,82.6,85.1,3.3,5 years 9 months
+Social competence,5.83,83,81.4,84.5,2.3,5 years 10 months
+Social competence,5.92,80.3,78,82.6,1.2,5 years 11 months
+Social competence,6,77.9,74.8,81,0.7,6 years
+Emotional maturity,4.5,71.6,69.8,73.5,2.4,4 years 6 months
+Emotional maturity,4.58,71.8,70.1,73.5,2.8,4 years 7 months
+Emotional maturity,4.67,73.8,72.4,75.2,3.9,4 years 8 months
+Emotional maturity,4.75,75.6,74.4,76.8,5,4 years 9 months
+Emotional maturity,4.83,77.2,76.2,78.3,6.4,4 years 10 months
+Emotional maturity,4.92,77.5,76.5,78.5,6.6,4 years 11 months
+Emotional maturity,5,79.3,78.4,80.2,7.7,5 years
+Emotional maturity,5.08,80.3,79.4,81.2,7.8,5 years 1 month
+Emotional maturity,5.17,80.8,79.9,81.7,7.8,5 years 2 months
+Emotional maturity,5.25,81.5,80.7,82.3,8.6,5 years 3 months
+Emotional maturity,5.33,81.7,80.8,82.5,8.6,5 years 4 months
+Emotional maturity,5.42,82.2,81.4,83.1,8.5,5 years 5 months
+Emotional maturity,5.5,82.6,81.7,83.5,6.5,5 years 6 months
+Emotional maturity,5.58,83.2,82.2,84.2,5.4,5 years 7 months
+Emotional maturity,5.67,83.8,82.8,84.9,4.7,5 years 8 months
+Emotional maturity,5.75,83.4,82.1,84.6,3.3,5 years 9 months
+Emotional maturity,5.83,81.9,80.3,83.5,2.3,5 years 10 months
+Emotional maturity,5.92,78.6,76.3,81,1.2,5 years 11 months
+Emotional maturity,6,76.7,73.5,79.9,0.7,6 years
+Language and cognitive skills,4.5,59.7,57.7,61.6,2.4,4 years 6 months
+Language and cognitive skills,4.58,62.6,60.7,64.4,2.8,4 years 7 months
+Language and cognitive skills,4.67,66.3,64.8,67.8,3.9,4 years 8 months
+Language and cognitive skills,4.75,70.6,69.4,71.9,5,4 years 9 months
+Language and cognitive skills,4.83,73.9,72.8,75,6.4,4 years 10 months
+Language and cognitive skills,4.92,75.4,74.3,76.4,6.6,4 years 11 months
+Language and cognitive skills,5,77.6,76.7,78.5,7.7,5 years
+Language and cognitive skills,5.08,78,77.1,78.9,7.8,5 years 1 month
+Language and cognitive skills,5.17,80.8,80,81.7,7.8,5 years 2 months
+Language and cognitive skills,5.25,81.9,81,82.7,8.6,5 years 3 months
+Language and cognitive skills,5.33,83,82.2,83.8,8.6,5 years 4 months
+Language and cognitive skills,5.42,83.8,83,84.6,8.5,5 years 5 months
+Language and cognitive skills,5.5,86.2,85.4,87.1,6.5,5 years 6 months
+Language and cognitive skills,5.58,86.7,85.7,87.6,5.4,5 years 7 months
+Language and cognitive skills,5.67,87.4,86.5,88.4,4.7,5 years 8 months
+Language and cognitive skills,5.75,87.7,86.6,88.9,3.3,5 years 9 months
+Language and cognitive skills,5.83,87.3,86,88.7,2.3,5 years 10 months
+Language and cognitive skills,5.92,82.9,80.7,85.1,1.2,5 years 11 months
+Language and cognitive skills,6,82.3,79.4,85.1,0.7,6 years
+Communication,4.5,64.6,62.6,66.5,2.4,4 years 6 months
+Communication,4.58,63.3,61.5,65.1,2.8,4 years 7 months
+Communication,4.67,67.8,66.4,69.3,3.9,4 years 8 months
+Communication,4.75,71.6,70.4,72.9,5,4 years 9 months
+Communication,4.83,74.2,73.1,75.2,6.4,4 years 10 months
+Communication,4.92,75.8,74.8,76.8,6.6,4 years 11 months
+Communication,5,77,76,77.9,7.7,5 years
+Communication,5.08,77.2,76.3,78.1,7.8,5 years 1 month
+Communication,5.17,79.1,78.2,80,7.8,5 years 2 months
+Communication,5.25,80.2,79.4,81.1,8.6,5 years 3 months
+Communication,5.33,81,80.2,81.9,8.6,5 years 4 months
+Communication,5.42,81.6,80.8,82.4,8.5,5 years 5 months
+Communication,5.5,84.3,83.4,85.2,6.5,5 years 6 months
+Communication,5.58,84.9,83.9,85.8,5.4,5 years 7 months
+Communication,5.67,84.9,83.9,86,4.7,5 years 8 months
+Communication,5.75,84.6,83.4,85.9,3.3,5 years 9 months
+Communication,5.83,84.6,83.1,86.1,2.3,5 years 10 months
+Communication,5.92,81.5,79.2,83.7,1.2,5 years 11 months
+Communication,6,79.7,76.6,82.7,0.7,6 years
+All five domains,4.5,35.7,33.7,37.6,2.4,4 years 6 months
+All five domains,4.58,35.9,34.1,37.7,2.8,4 years 7 months
+All five domains,4.67,41.3,39.7,42.8,3.9,4 years 8 months
+All five domains,4.75,44.6,43.2,46,5,4 years 9 months
+All five domains,4.83,47.8,46.6,49.1,6.4,4 years 10 months
+All five domains,4.92,49.9,48.7,51.1,6.6,4 years 11 months
+All five domains,5,52.8,51.7,53.9,7.7,5 years
+All five domains,5.08,53.6,52.5,54.7,7.8,5 years 1 month
+All five domains,5.17,56.4,55.3,57.6,7.8,5 years 2 months
+All five domains,5.25,57.1,56,58.1,8.6,5 years 3 months
+All five domains,5.33,58.5,57.4,59.5,8.6,5 years 4 months
+All five domains,5.42,60.2,59.2,61.2,8.5,5 years 5 months
+All five domains,5.5,63.1,62,64.3,6.5,5 years 6 months
+All five domains,5.58,63.9,62.6,65.2,5.4,5 years 7 months
+All five domains,5.67,64.8,63.4,66.1,4.7,5 years 8 months
+All five domains,5.75,65,63.4,66.7,3.3,5 years 9 months
+All five domains,5.83,63.6,61.6,65.6,2.3,5 years 10 months
+All five domains,5.92,58.4,55.6,61.3,1.2,5 years 11 months
+All five domains,6,54.7,50.9,58.4,0.7,6 years

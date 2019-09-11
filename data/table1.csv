@@ -1,0 +1,89 @@
+﻿var,label,cat,n,pct,pdelay
+month,Month of birth,Jan,8742,8.4,9.6
+month,Month of birth,Feb,8104,7.8,16.2
+month,Month of birth,Mar,9123,8.7,27.9
+month,Month of birth,Apr,8626,8.3,40.5
+month,Month of birth,May,8944,8.6,55.3
+month,Month of birth,Jun,8571,8.2,67.1
+month,Month of birth,Jul,9264,8.9,73.8
+month,Month of birth,Aug,8907,8.5,0
+month,Month of birth,Sep,8962,8.6,0
+month,Month of birth,Oct,8948,8.6,0
+month,Month of birth,Nov,8086,7.8,0
+month,Month of birth,Dec,8079,7.7,0
+sex,Sex ,Male,53643,51.4,28.1
+sex,Sex ,Female,50713,48.6,21
+abtsi,Aboriginality,Non-Aboriginal,96762,92.7,24.7
+abtsi,Aboriginality,Aboriginal,7594,7.3,24.2
+mumsage,Maternal age at childbirth (years),<20,4531,4.3,21.8
+mumsage,Maternal age at childbirth (years),20-24,16463,15.8,21.7
+mumsage,Maternal age at childbirth (years),25-29,28544,27.4,25
+mumsage,Maternal age at childbirth (years),30-34,33580,32.2,25.9
+mumsage,Maternal age at childbirth (years),35+,21234,20.4,25.1
+mumsage,Maternal age at childbirth (years),Missing,4,0,25
+region,Mother's region of birth ,Australia,80465,77.1,27.5
+region,Mother's region of birth ,NW Europe,3656,3.5,26
+region,Mother's region of birth ,SE Europe,1666,1.6,21.3
+region,Mother's region of birth ,N Africa & Middle East,3646,3.5,7
+region,Mother's region of birth ,SE Asia,5170,5,10.8
+region,Mother's region of birth ,NE Asia,3900,3.7,13.1
+region,Mother's region of birth ,Sth Asia,3070,2.9,8.6
+region,Mother's region of birth ,Americas,1317,1.3,23
+region,Mother's region of birth ,Sub-Saharan Africa,953,0.9,23.3
+region,Mother's region of birth ,Missing,513,0.5,31.2
+ins,Private patient/insurance at childbirth,No,71083,68.1,23.1
+ins,Private patient/insurance at childbirth,Yes,32184,30.8,27.9
+ins,Private patient/insurance at childbirth,Missing,1089,1,27.5
+marital,Mother married/partnered at childbirth,No,19218,18.4,24
+marital,Mother married/partnered at childbirth,Yes,81940,78.5,24.7
+marital,Mother married/partnered at childbirth,Missing,3198,3.1,26.7
+smoke,Mother smoked during pregnancy,No,85442,81.9,24.5
+smoke,Mother smoked during pregnancy,Yes,17156,16.4,24.8
+smoke,Mother smoked during pregnancy,Missing,1758,1.7,31.1
+anc,Antenatal care in first 20 weeks of pregnancy,No,11544,11.1,22
+anc,Antenatal care in first 20 weeks of pregnancy,Yes,90467,86.7,25.1
+anc,Antenatal care in first 20 weeks of pregnancy,Missing,2345,2.3,20.2
+plural,Plurality,Singleton,100261,96.1,24.5
+plural,Plurality,Twin/triplet,3073,2.9,29.3
+plural,Plurality,Missing,1022,1,29.5
+sga,Small for gestational age,No,91693,87.9,24.6
+sga,Small for gestational age,Yes,11537,11.1,24.7
+sga,Small for gestational age,Missing,1126,1.1,28.7
+preterm,Preterm birth (<37 week's gestation),No,96473,92.5,24.3
+preterm,Preterm birth (<37 week's gestation),Yes,6839,6.6,28.3
+preterm,Preterm birth (<37 week's gestation),Missing,1044,1,29
+resus,Resuscitated at birth,No,96409,92.4,24.4
+resus,Resuscitated at birth,Yes,6717,6.4,27.2
+resus,Resuscitated at birth,Missing,1230,1.2,28.7
+nicu,Admitted to NICU/SCN,No,86856,83.2,24.2
+nicu,Admitted to NICU/SCN,Yes,16347,15.7,26.4
+nicu,Admitted to NICU/SCN,Missing,1153,1.1,31
+comorb,Maternal comorbidities during pregnancy,No,92016,88.2,24.6
+comorb,Maternal comorbidities during pregnancy,Yes,11318,10.9,24.3
+comorb,Maternal comorbidities during pregnancy,Missing,1022,1,29.5
+educ,Maternal school education,≥10 years,89443,85.7,25.1
+educ,Maternal school education,≤9 years,5829,5.6,19.2
+educ,Maternal school education,Missing,9084,8.7,23.6
+occ,Highest level of occupation of either parent,Grades 1-3,71709,68.7,25.9
+occ,Highest level of occupation of either parent,Grade 4/unemployed,25331,24.3,21.5
+occ,Highest level of occupation of either parent,Missing,7316,7,23.6
+esl,English Second Language,No,86664,83.1,27.6
+esl,English Second Language,Yes,17692,17,10.2
+sn,Medically diagnosed special needs,No,99928,95.8,24
+sn,Medically diagnosed special needs,Yes,4428,4.2,39.1
+anyneeds,Additional health and developmental needs,No,88324,84.6,23.8
+anyneeds,Additional health and developmental needs,Yes,16032,15.4,29.1
+preschool,Preschool,No,25384,24.3,18.5
+preschool,Preschool,Yes,72092,69.1,27.2
+preschool,Preschool,Missing,6880,6.6,20.6
+aria,Remoteness,Major City,63496,60.9,20.4
+aria,Remoteness,Inner Regional,29600,28.4,31.2
+aria,Remoteness,Outer Regional,10367,9.9,32
+aria,Remoteness,Remote/Very Remote,893,0.9,26.2
+irsad,Area-level disadvantage quintiles,Q1 (Disadvantaged),10192,9.8,21.8
+irsad,Area-level disadvantage quintiles,Q2,12009,11.5,29.8
+irsad,Area-level disadvantage quintiles,Q3,36882,35.3,24.2
+irsad,Area-level disadvantage quintiles,Q4,21330,20.4,24.3
+irsad,Area-level disadvantage quintiles,Q5 (Advantaged),23943,22.9,24.4
+year,Census year,2009,49625,47.6,24.6
+year,Census year,2012,54731,52.5,24.7
